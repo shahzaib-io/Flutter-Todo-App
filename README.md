@@ -8,17 +8,8 @@ This project is my **first Flutter mobile application**, created to understand c
 
 ## 📱 App Preview
 
-> Add your screenshots here
 
-```
-/screenshots/home.png
-/screenshots/add_todo.png
-/screenshots/checked_todo.png
-```
-
-Example:
-
-![App Screenshot](screenshots/home.png)
+<img src="screenshots/home.png" width="300" />
 
 ---
 
