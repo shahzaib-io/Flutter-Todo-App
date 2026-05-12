@@ -2,7 +2,7 @@
 
 A simple Todo List mobile application built with Flutter while learning Flutter development and mobile app fundamentals.
 
-This project is my **first Flutter mobile application**, created to understand core concepts like UI building, state management, widgets, and user interaction.
+This project is my **first Flutter mobile application**, created to understand core concepts of Flutter like UI building, state management, widgets, and user interaction.
 
 ---
 
@@ -50,9 +50,9 @@ lib/
 
 ---
 
-## 📚 What I Learned
+## 📚 What We Learned
 
-This project helped me understand:
+This project helps understanding:
 
 * Flutter project structure
 * Stateful vs Stateless widgets
@@ -64,15 +64,6 @@ This project helped me understand:
 
 ---
 
-## 📸 Screenshots
-
-Add your emulator screenshots here:
-
-* Home Screen
-* Adding Todo
-* Marking Todo Complete
-
----
 
 ## 🔧 How to Run
 
@@ -111,13 +102,3 @@ flutter run
 * Add dark mode support
 
 ---
-
-## 👨‍💻 Author
-
-Built by a developer transitioning from Web Development to Mobile App Development.
-
----
-
-## ⭐ Note
-
-This is a learning project and my first Flutter application. Feedback and suggestions are welcome!
