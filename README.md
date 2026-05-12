@@ -1,17 +1,132 @@
-# flutter_application_1
+# 📝 Flutter Todo List App
 
-A new Flutter project.
+A simple Todo List mobile application built with Flutter while learning Flutter development and mobile app fundamentals.
 
-## Getting Started
+This project is my **first Flutter mobile application**, created to understand core concepts like UI building, state management, widgets, and user interaction.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Preview
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+> Add your screenshots here
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+/screenshots/home.png
+/screenshots/add_todo.png
+/screenshots/checked_todo.png
+```
+
+Example:
+
+![App Screenshot](screenshots/home.png)
+
+---
+
+## 🚀 Features
+
+* ➕ Add new todos with title and description
+* 📋 Display list of todos dynamically
+* ✔️ Mark todos as completed/uncompleted
+* 🎨 Simple and clean UI
+* 🧠 Basic state management using `setState`
+* 🧩 Component-based structure (Screens, Widgets, Models)
+
+---
+
+## 🛠️ Built With
+
+* Flutter SDK
+* Dart
+* Material Design Widgets
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│
+├── main.dart
+├── models/
+│   └── todos_model.dart
+│
+├── screens/
+│   └── home_screen.dart
+│
+└── widgets/
+    └── todo.dart
+```
+
+---
+
+## 📚 What I Learned
+
+This project helped me understand:
+
+* Flutter project structure
+* Stateful vs Stateless widgets
+* Passing data between widgets
+* Using `TextEditingController`
+* Managing state with `setState`
+* Building reusable UI components
+* Basic mobile UI design principles
+
+---
+
+## 📸 Screenshots
+
+Add your emulator screenshots here:
+
+* Home Screen
+* Adding Todo
+* Marking Todo Complete
+
+---
+
+## 🔧 How to Run
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/flutter-todo-app.git
+```
+
+2. Navigate to project folder
+
+```
+cd flutter-todo-app
+```
+
+3. Install dependencies
+
+```
+flutter pub get
+```
+
+4. Run the app
+
+```
+flutter run
+```
+
+---
+
+## 🎯 Future Improvements
+
+* Add delete/edit todo feature
+* Persist data using local storage or Firebase
+* Add task priority system
+* Improve UI with better animations
+* Add dark mode support
+
+---
+
+## 👨‍💻 Author
+
+Built by a developer transitioning from Web Development to Mobile App Development.
+
+---
+
+## ⭐ Note
+
+This is a learning project and my first Flutter application. Feedback and suggestions are welcome!
