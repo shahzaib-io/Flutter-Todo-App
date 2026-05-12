@@ -9,7 +9,7 @@ This project is my **first Flutter mobile application**, created to understand c
 ## 📱 App Preview
 
 
-<img src="screenshots/home.png" width="200" />
+<img src="screenshots/home.png" width="220" />
 
 ---
 
